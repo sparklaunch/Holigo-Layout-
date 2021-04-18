@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E517B10262CEEC300D02AA1 /* OnBoardingScreen_0.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E517B0F262CEEC300D02AA1 /* OnBoardingScreen_0.storyboard */; };
 		2EC26653262C36B600D00384 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC26652262C36B600D00384 /* AppDelegate.swift */; };
 		2EC26655262C36B600D00384 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC26654262C36B600D00384 /* SceneDelegate.swift */; };
 		2EC26657262C36B600D00384 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC26656262C36B600D00384 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E517B0F262CEEC300D02AA1 /* OnBoardingScreen_0.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = OnBoardingScreen_0.storyboard; sourceTree = "<group>"; };
 		2EC2664F262C36B600D00384 /* Holigo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Holigo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EC26652262C36B600D00384 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2EC26654262C36B600D00384 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				2EC2665B262C36B700D00384 /* Assets.xcassets */,
 				2EC2665D262C36B700D00384 /* LaunchScreen.storyboard */,
 				2EC26660262C36B700D00384 /* Info.plist */,
+				2E517B0F262CEEC300D02AA1 /* OnBoardingScreen_0.storyboard */,
 			);
 			path = Holigo;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			files = (
 				2EC2665F262C36B700D00384 /* LaunchScreen.storyboard in Resources */,
 				2EC2665C262C36B700D00384 /* Assets.xcassets in Resources */,
+				2E517B10262CEEC300D02AA1 /* OnBoardingScreen_0.storyboard in Resources */,
 				2EC2665A262C36B600D00384 /* WelcomeScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
